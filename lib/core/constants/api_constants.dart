@@ -4,7 +4,6 @@ class ApiConstants {
   static const String posterSize = 'w500';
   static const String backdropSize = 'original';
 
-  // Add your TMDB API key here
   static const String apiKey = 'apikey';
 
   static String getPosterUrl(String path) => '$imageBaseUrl/$posterSize$path';

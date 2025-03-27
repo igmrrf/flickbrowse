@@ -30,7 +30,6 @@ class MovieRepository {
                 ),
               )
               .toList();
-      print(movies);
 
       return movies;
     } catch (e) {

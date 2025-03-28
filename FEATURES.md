@@ -1,7 +1,7 @@
 # Build a Mini Movie Catalog App
 
 ## Description:
-Build a small Flutter application called "FlickBrowse".
+A small Flutter application called "FlickBrowse".
 
 ## Features & Requirements:
 
@@ -29,24 +29,3 @@ Build a small Flutter application called "FlickBrowse".
 
 - Search Functionality:
   - Add a search bar at the top of the Movie List Screen to search movies in real-time.
-
-## Constraints & Expectations:
-
-- Use Flutter + Dart.
-
-- Good folder structure and clean code architecture are expected.
-
-- Implement State Management (any one: Provider, Riverpod, Bloc, etc.) — Candidate should explain why they chose that.
-
-- Show awareness of API error handling, loading states, and empty states.
-
-- Using Flutter Hooks
-
-- Applying Dependency Injection.
-
-- Adding simple unit/widget tests
-
-- Using Custom Animations or Transitions when moving between screens.
-
-- Making the UI responsive.
-
